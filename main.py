@@ -1,3 +1,12 @@
+################################################################################
+# Project Name:  Turtle Race Game
+# Description:   This project is turtle race game which to guess which turtle color gets to the end line
+# Author:        ziqkimi308
+# Created:       2024-12-03
+# Updated:       2024-12-03
+# Version:       1.0
+################################################################################
+
 # Import
 from turtle import Turtle, Screen
 import random
