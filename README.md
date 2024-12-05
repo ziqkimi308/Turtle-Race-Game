@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Turtle Race
+# Turtle Race
 
 - This project is a simple Turtle Racing Game built with Python's turtle module. The game allows users to place a bet on the color of a turtle, and watch as six turtles race across the screen. The user inputs their bet on which turtle will win, and the game tells them if they won or lost after the race.
 
